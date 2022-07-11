@@ -255,5 +255,6 @@ gradle-app.setting
 #yml파일
 application-aws.yml
 application-credentials.yml
+*.yml
 
 .idea/modules/
